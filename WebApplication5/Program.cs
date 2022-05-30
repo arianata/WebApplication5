@@ -23,4 +23,11 @@ namespace WebApplication5
                     webBuilder.UseStartup<Startup>();
                 });
     }
+
+
+
+    public class Property
+    {
+
+    }
 }
